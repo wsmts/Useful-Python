@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # My (Useful) Python list
 
 A list of modules/Tutorials which seem worthwhile to remember.
@@ -8,6 +9,17 @@ A list of modules/Tutorials which seem worthwhile to remember.
 
 - [Invoke](http://www.pyinvoke.org): Task execution tool & library
 
+=======
+# Useful Python
+
+## Modules
+
+### General
+
+- [Ubelt](https://github.com/Erotemic/ubelt): A Python utility belt containing simple tools, a stdlib like feel, and extra batteries.
+- [sh](http://amoffat.github.io/sh/): subprocess replacement, call any program as if it were a function.
+  
+>>>>>>> Stashed changes
 ### GUI
 
 - [Streamlit](https://docs.streamlit.io/en/latest/index.html): build beautiful custom web-apps
@@ -24,6 +36,7 @@ A list of modules/Tutorials which seem worthwhile to remember.
 
 ### Web
 
+<<<<<<< Updated upstream
 - [recipe-converter](https://github.com/justinmklam/recipe-converter): web-app using [Flask](https://flask.palletsprojects.com/) / [Spectre](https://picturepan2.github.io/spectre/)
 
 ### Misc
@@ -32,3 +45,6 @@ A list of modules/Tutorials which seem worthwhile to remember.
 - [pylibdmtx](https://pypi.org/project/pylibdmtx/): Read and write Data Matrix barcodes
 - [itertools](https://towardsdatascience.com/tour-of-python-itertools-2af84db18a5e): Tour of Python Itertools
 
+=======
+- [recipe-converter](https://github.com/justinmklam/recipe-converter): web-app using [Flask](https://flask.palletsprojects.com/) / [Spectre](https://picturepan2.github.io/spectre/)
+>>>>>>> Stashed changes
