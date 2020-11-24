@@ -9,7 +9,11 @@ A list of modules/Tutorials which seem worthwhile to remember.
 - [Invoke](http://www.pyinvoke.org): Task execution tool & library
 - [Ubelt](https://github.com/Erotemic/ubelt): A Python utility belt containing simple tools, a stdlib like feel, and extra batteries.
 - [sh](http://amoffat.github.io/sh/): subprocess replacement, call any program as if it were a function.
-  
+
+### Web
+
+- [AutoScraper](https://github.com/alirezamika/autoscraper/): A Smart, Automatic, Fast and Lightweight Web Scraper
+
 ### GUI
 
 - [Streamlit](https://docs.streamlit.io/en/latest/index.html): build beautiful custom web-apps
