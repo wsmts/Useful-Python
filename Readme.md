@@ -25,6 +25,11 @@ A list of modules/Tutorials which seem worthwhile to remember.
 ### Chemistry
 
 - [Razi](https://razi.readthedocs.io/en/latest): Using SQLAlchemy with chemical databases
+
+### Datasci
+
+- [Sidetable](https://github.com/chris1610/sidetable): Create Simple Summary Tables in Pandas
+- [jenkspy](https://github.com/mthh/jenkspy): Finding Natural Breaks in Data with the Fisher-Jenks Algorithm
   
 ## Tutorials
 
